@@ -1,0 +1,38 @@
+_repo: Drie-blyspelen_73449
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Langendijk, Pieter
+    aliases:
+    - Langendyk, Pieter
+    - Langendyk, Pr. (Pieter)
+    birthdate: 1683
+    deathdate: 1756
+    gutenberg_agent_id: '57074'
+    url: http://www.gutenberg.org/2009/agents/57074
+    wikipedia: https://nl.wikipedia.org/wiki/Pieter_Langendijk
+description: ''
+gutenberg_issued: '2024-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73449'
+language: nl
+pgterms:marc904: http://archive.org/details/langendijk_3_blijspelen
+pgterms:marc905: 20231222163241langendyk
+pgterms:marc906: '1856'
+pgterms:marc907: NL
+production_note: Branko Collin and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aSchiedam :$bH. A. M. Roelants, $c1856.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcsh 'Dutch drama -- 18th century'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: Don Quichot op de bruiloft van Kamako -- Papirius, of het oproer
+  der vrouwen binnen Romen -- De Wiskunstenaars, of 't gevluchte juffertje.
+title: Drie blyspelen
+url: http://www.gutenberg.org/ebooks/73449
